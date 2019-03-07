@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Off the Bone BBQ",
+    "phone": "+18175637000",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Coco Shrimp",
+    "phone": "+18083711760",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Botanas Lokas",
+    "phone": "+18178408814",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Bowman Springs Park",
+    "phone": "",
+    "device": {}
+  },
+  {
+    "name": "Trio Pizza & Pasta",
+    "phone": "+18175615959",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Taqueria Delgadillo",
+    "phone": "",
+    "device": {}
+  },
+  {
+    "name": "Hot Shot Food Store",
+    "phone": "+18175364332",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Popeyes Fried chicken",
+    "phone": "",
+    "device": {}
+  },
+  {
+    "name": "Glass Aquatics",
+    "phone": "+18174853474",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Long John Silver's",
+    "phone": "+18175722300",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Bobaddiction",
+    "phone": "+15127632622",
+    "device": [
+      "voip"
+    ]
+  },
+  {
+    "name": "H & J Hamburgers",
+    "phone": "",
+    "device": {}
+  },
+  {
+    "name": "Hobert's Soul Food Canteen",
+    "phone": "+18175341604",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Chicken Express",
+    "phone": "+18175617552",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Dickey's Barbecue Pit",
+    "phone": "+18175634104",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "San Geronimo Y Taqueria",
+    "phone": "+18175345849",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Popeyes Louisiana Kitchen",
+    "phone": "+18174835638",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "phone": "+18174138888",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "phone": "+18175615669",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Mr. Joe's Restaurant",
+    "phone": "+18175310030",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Burger King",
+    "phone": "+18663942493",
+    "device": {}
+  },
+  {
+    "name": "Texas Scaregrounds",
+    "phone": "+18178196773",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Meadowmere Park",
+    "phone": "+18174885272",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Lichos Taqueria",
+    "phone": "+18174499229",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Subway",
+    "phone": "+18175612992",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "O Sweet Georgia Soul Food Restaurant",
+    "phone": "+18175345980",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Subway",
+    "phone": "+18174780243",
+    "device": [
+      "landline"
+    ]
+  }
+]
+[
+  {
+    "name": "Coco Shrimp",
+    "phone": "+18083711760",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Los Molcajetes Mexican Restaurant",
+    "phone": "+18173069000",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Wabi Sabi Sushi",
+    "phone": "+16823125577",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Boopa's Bagel Deli",
+    "phone": "+18172324771",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Indian Kitchen Cuisine of India",
+    "phone": "+18175763090",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Wild Sushi & Ramen",
+    "phone": "+18172320522",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Lumi Snow",
+    "phone": "+18174206622",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Boun Bistro",
+    "phone": "+16826471197",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Saltgrass Steak House",
+    "phone": "+18173067900",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Shady Oak Barbeque & Grill",
+    "phone": "+18173067812",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Taste of Asia",
+    "phone": "+18175031818",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Flips Patio Grill",
+    "phone": "+18178474424",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Noodles @ Boba Tea House",
+    "phone": "+18172349996",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Tacusa",
+    "phone": "+18175762231",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Lone Star Bar-B-Que",
+    "phone": "+18174287887",
+    "device": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Texas Roadhouse",
+    "phone": "+18178318811",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "MK's Sushi Restaurant",
+    "phone": "+18173060003",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "BurgerFi",
+    "phone": "+18177174713",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Fred's Texas Cafe",
+    "phone": "+18172320111",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Texas Pit Oyster Bar",
+    "phone": "+18173060700",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Barzil Brazilian Bar & Grill",
+    "phone": "+18177205550",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Banh Mi Viet",
+    "phone": "+18178492550",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Twin Peaks",
+    "phone": "+18177667462",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Rosa's Café & Tortilla Factory",
+    "phone": "+18173068677",
+    "device": [
+      "voip"
+    ]
+  },
+  {
+    "name": "River Oaks Cafe 2",
+    "phone": "+18172328446",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Big Joe's Pizza & Pasta",
+    "phone": "+18177591100",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "BoomerJack's Grill & Bar - North Fort Worth",
+    "phone": "+18172329627",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Luigi's Italian Restaurant",
+    "phone": "+18178935884",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Joe's Crab Shack",
+    "phone": "+16822861000",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Simply Gyros",
+    "phone": "+18173498675",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Rudy's Country Store and Bar-B-Q",
+    "phone": "+16827037043",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Palio's On Tap Western Center",
+    "phone": "+18177209720",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Posados Cafe",
+    "phone": "+18172322966",
+    "device": [
+      "voip"
+    ]
+  },
+  {
+    "name": "Love Sweet Things Bakery",
+    "phone": "+18178492111",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Jakes Burgers and Beer",
+    "phone": "+18177375253",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Bosses Pizza & Wings",
+    "phone": "+18178475500",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Genghis Grill",
+    "phone": "+18173067560",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Woolley's Frozen Custard",
+    "phone": "+18175039918",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Which Wich",
+    "phone": "+16822869424",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "On The Border Mexican Grill & Cantina",
+    "phone": "+18177683840",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Braum's",
+    "phone": "+18178478114",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Redneck Heaven - Fort Worth",
+    "phone": "+18172229800",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Chili's",
+    "phone": "+18172325515",
+    "device": [
+      "voip"
+    ]
+  },
+  {
+    "name": "Cracker Barrel Old Country Store",
+    "phone": "+18176248050",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "phone": "+18172329527",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Luby's",
+    "phone": "+18172325400",
+    "device": [
+      "voip"
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "phone": "+18173067958",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Dublin Square",
+    "phone": "+18173067312",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "Our Cafe Restaurant",
+    "phone": "+18175140033",
+    "device": [
+      "landline"
+    ]
+  },
+  {
+    "name": "IHOP",
+    "phone": "+18178380022",
+    "device": [
+      "landline"
+    ]
+  }
+]
